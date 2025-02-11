@@ -232,3 +232,4 @@ FROM (SELECT (@sor := @sor + 1) AS s, h.gy AS gyrt, h.tip AS tps, h.ar AS raid
 			ORDER BY 3) AS h) AS T2 ON T1.s + 1 = T2.s
 
 -- csoda
+--lecci mukodj
