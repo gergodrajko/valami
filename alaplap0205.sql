@@ -233,3 +233,4 @@ FROM (SELECT (@sor := @sor + 1) AS s, h.gy AS gyrt, h.tip AS tps, h.ar AS raid
 
 -- csoda
 --lecci mukodj
+-- te kis piskotataller
